@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <vocabulaires>
   <MOT>
-    <mot-unique>ااا</mot-unique>
-    <frequence-mot>1</frequence-mot>
-  </MOT>
-  <MOT>
     <mot-unique>ابغيت</mot-unique>
     <frequence-mot>3</frequence-mot>
   </MOT>
