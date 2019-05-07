@@ -1,14 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <vocabulaires>
   <MOT>
-    <mot-unique>,</mot-unique>
-    <frequence-mot>69</frequence-mot>
-  </MOT>
-  <MOT>
-    <mot-unique>ISO</mot-unique>
-    <frequence-mot>1</frequence-mot>
-  </MOT>
-  <MOT>
     <mot-unique>اؤجر</mot-unique>
     <frequence-mot>1</frequence-mot>
   </MOT>
